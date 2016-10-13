@@ -17,7 +17,7 @@
   background: linear-gradient(to left, #A593E0, #322e40) !important; }
 
 #global-header {
-  background: url(../img/hero/headerimage9.jpg) no-repeat !important;
+  background: url(../img/hero/headerimage5.jpg) no-repeat !important;
   background-size: cover !important;
   padding-top: 150px !important;
   padding-bottom: 107px !important;
@@ -25,7 +25,7 @@
   background-attachment: fixed !important; }
 
 #slider {
-  background: url(../img/hero/headerimage9.jpg) no-repeat !important;
+  background: url(../img/hero/headerimage5.jpg) no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   background-position: 10% 0% !important;
@@ -33,7 +33,7 @@
   position: relative !important; }
 
 #call-to-action {
-  background: url(../img/hero/headerimage9.jpg) no-repeat !important;
+  background: url(../img/hero/headerimage5.jpg) no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   padding: 70px 0px !important;
