@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="3 72 151 41" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <rect x="2.767" y="72.843" width="151.685" height="40.281" style="fill: rgb(255, 255, 255);"/>
+  <path d="M 40.531 91.724 Z" style="stroke: black; fill: none;"/>
+  <text x="5.652" y="103.689" style="fill: rgb(58, 7, 103); font-size: 28.8px; white-space: pre;">오케이가스</text>
+</svg>

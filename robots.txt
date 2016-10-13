@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://dongt.kobia.co.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 

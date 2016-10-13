@@ -1,0 +1,42 @@
+/* Descriptive colors */
+/* Color usage */
+/* $colorBase: $randomColor; */
+.svgLogoText {
+  fill: #A593E0; }
+
+#service .service-item i {
+  color: #A593E0 !important; }
+
+#call-to-action:before {
+  background: #A593E0 !important; }
+
+#global-header:before {
+  background: linear-gradient(to left, #A593E0, #1f1c2c 70%) !important; }
+
+#slider:before {
+  background: linear-gradient(to left, #A593E0, #322e40) !important; }
+
+#global-header {
+  background: url(../img/hero/headerimage9.jpg) no-repeat !important;
+  background-size: cover !important;
+  padding-top: 150px !important;
+  padding-bottom: 107px !important;
+  position: relative !important;
+  background-attachment: fixed !important; }
+
+#slider {
+  background: url(../img/hero/headerimage9.jpg) no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: 10% 0% !important;
+  padding: 200px 0 280px 0 !important;
+  position: relative !important; }
+
+#call-to-action {
+  background: url(../img/hero/headerimage9.jpg) no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  padding: 70px 0px !important;
+  position: relative !important;
+  text-align: center !important;
+  color: #fff !important; }
