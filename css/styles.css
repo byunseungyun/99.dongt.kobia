@@ -2,22 +2,22 @@
 /* Color usage */
 /* $colorBase: $randomColor; */
 .svgLogoText {
-  fill: #A593E0; }
+  fill: #60c5ba; }
 
 #service .service-item i {
-  color: #A593E0 !important; }
+  color: #60c5ba !important; }
 
 #call-to-action:before {
-  background: #A593E0 !important; }
+  background: #60c5ba !important; }
 
 #global-header:before {
-  background: linear-gradient(to left, #A593E0, #1f1c2c 70%) !important; }
+  background: linear-gradient(to left, #60c5ba, #1f1c2c 70%) !important; }
 
 #slider:before {
-  background: linear-gradient(to left, #A593E0, #322e40) !important; }
+  background: linear-gradient(to left, #60c5ba, #322e40) !important; }
 
 #global-header {
-  background: url(../img/hero/headerimage5.jpg) no-repeat !important;
+  background: url("../images/headerimage4.jpg") no-repeat !important;
   background-size: cover !important;
   padding-top: 150px !important;
   padding-bottom: 107px !important;
@@ -25,7 +25,7 @@
   background-attachment: fixed !important; }
 
 #slider {
-  background: url(../img/hero/headerimage5.jpg) no-repeat !important;
+  background: url("../images/headerimage4.jpg") no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   background-position: 10% 0% !important;
@@ -33,7 +33,7 @@
   position: relative !important; }
 
 #call-to-action {
-  background: url(../img/hero/headerimage5.jpg) no-repeat !important;
+  background: url("../images/headerimage4.jpg") no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   padding: 70px 0px !important;
